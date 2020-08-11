@@ -16,5 +16,7 @@ By marketing, I'm referring to the 4Ps and not something specific like digital a
 
 Honestly, I like to learn about human behavior. Marketing is a good way of doing that \(even though the industry is simply wacky a lot of the times\). This is a place to give structure to my own thoughts and notes.
 
+I am currently a principal at [Denmark \[the agency\]](http://denmarktheagency.com).
+
 
 
