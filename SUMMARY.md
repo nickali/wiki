@@ -4,3 +4,7 @@
 
 ## Fixes
 
+## Favorites
+
+* [Desktop/Laptop Apps](favorites/desktop-laptop-apps.md)
+
