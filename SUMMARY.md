@@ -8,3 +8,7 @@
 
 * [Desktop/Laptop Apps](favorites/desktop-laptop-apps.md)
 
+## Snippets
+
+* [CLI](snippets/cli.md)
+
