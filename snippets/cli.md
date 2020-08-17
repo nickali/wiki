@@ -14,7 +14,7 @@ du -h / --max-depth=1 | sort -hr
 
 #### Conda
 
-Set up environments:
+Set up environments \(example for node\):
 
 ```text
 $ conda create -yn myapp nodejs
