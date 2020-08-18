@@ -12,13 +12,13 @@ I love Mac OS X even with all its warts. Microsoft interfaces make me 🤮a bit.
 
 Alright, let's do this.
 
-### Media
+## Media
 
 * VLC - started using it years ago when all other media players sucked and have stuck with. The interface looks a bit dated, but it still works no matter what you throw at it.
 
-### Internet-y
+## Internet-y
 
-#### Browsers
+### Browsers
 
 * Firefox - add some plugins and it becomes super secure. It's a bit of a resource hog on Apple products, but the sacrifice is worth it.
   * Plugins:
@@ -27,13 +27,14 @@ Alright, let's do this.
     * Invidious - imagine nitter for YouTube.
     * Bibliogram - imagine Invidious for Instagram.
 * 
-#### Folders and Documents
+
+## Folders and Documents
 
 * Cryptomator - encrypts files and folders and can mount folders so users can transparently encrypt everything dropped into the folder.
 * Cyberduck - file transfer app but also has Cryptomator functionality built-in
 * Moutain Duck - mounts network volumes, but also has Cryptomator functionality built-in.
 
-#### Utilities
+## Utilities
 
 * Hyper - an alternative to Terminal. Has themes and plugins \(and git integration\):
 
@@ -51,7 +52,7 @@ SaaS
   * Bitwarden\_rs - a password storarge server for Bitwarden password manager apps.
   * 
 
-### Utilities
+## Utilities
 
 * * 1440 - A menubar app that let's you know the number of minutes left in the day. Great tool to remind you not to procrastinate.
 * AppCleaner - It identifies the cruft that needs to be deleted when deleting an app. Usually they are settings file that do no harm by hanging around, but I'd prefer them gone.

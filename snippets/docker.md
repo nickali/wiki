@@ -1,6 +1,6 @@
 # Docker
 
-### Create new image from container and Push
+## Create new image from container and Push
 
 ```bash
 $ docker commit <container_id> new_image_name:tag_name

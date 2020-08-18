@@ -1,6 +1,6 @@
 # Utilities
 
-### Crontab \(Mac OS X\)
+## Crontab \(Mac OS X\)
 
 When trying to add a command in crontab, you might get an error like:
 
@@ -12,7 +12,7 @@ The comand needs to be added to Full Disk Access under System Preverences -&gt; 
 
 Launchd probably is a better way of doing this, but here it is for now.
 
-### Github Push
+## Github Push
 
 If we get the following error when trying to push:
 
