@@ -6,7 +6,7 @@ description: A mix of open source and proprietary apps that I use on a daily bas
 
 I'm all in on Apple. I've bought iPhones, iPads, Watch, Apple TVs, Macbooks, iMacs, Mac Pros, Airport, Pencil, Magic Mice, and wireless keyboards. The only major Apple device I've never puchased is the Homepod. 
 
-I love Mac OS X even with all its warts. Microsoft interfaces make me gag a bit. 
+I love Mac OS X even with all its warts. Microsoft interfaces make me 🤮a bit. 
 
 [I love me some yummy open source software](https://fridge.ubuntu.com/2008/11/20/ubuntu-hall-of-fame/). If an OSS piece of software is close to proprietary software, I'll use the OSS app instead. 
 
