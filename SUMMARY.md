@@ -16,3 +16,7 @@
 
 * [Docker](docker.md)
 
+## Fixes <a id="fixes-1"></a>
+
+* [Utilities](fixes-1/utilities.md)
+
