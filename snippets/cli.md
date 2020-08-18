@@ -14,7 +14,7 @@ Finding top-level largest directories:
 du -h / --max-depth=1 | sort -hr
 ```
 
-### Dev
+### Environments
 
 #### Conda
 
