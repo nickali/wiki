@@ -12,3 +12,29 @@ The comand needs to be added to Full Disk Access under System Preverences -&gt; 
 
 Launchd probably is a better way of doing this, but here it is for now.
 
+### Github Push
+
+If we get the following error when trying to push:
+
+```text
+! [remote rejected] master -> master (push declined due to email privacy restrictions)
+error: failed to push some refs to 'https://github.com/nickali/configs.git'
+```
+
+It's because 'Block command line pushes that expose my email' is checked under the [Security settings](https://github.com/settings/emails). Use the email provided under 'Keep my email addresses private' as username:
+
+```text
+$ git config user.email "<RANDOM_DIGITS>+<USERNAME>@users.noreply.github.com"
+```
+
+The -global flag can be added if you will be only using github repositories.
+
+To continue the push:
+
+```text
+$ git commit --amend --reset-author
+$ git push
+```
+
+
+
