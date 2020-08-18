@@ -4,9 +4,9 @@ description: Notes specific to the terminal.
 
 # CLI
 
-### Utilities
+## Utilities
 
-#### Disk-related
+### Disk-related
 
 Finding top-level largest directories:
 
@@ -14,9 +14,9 @@ Finding top-level largest directories:
 du -h / --max-depth=1 | sort -hr
 ```
 
-### Environments
+## Environments
 
-#### Conda
+### Conda
 
 Set up environments \(example for node\):
 
@@ -29,9 +29,9 @@ $ npm --version
 5.6.0
 ```
 
-### Keyboard Shortcuts 
+## Keyboard Shortcuts 
 
-#### Mac
+### Mac
 
 From the [Apple Support page](https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac):
 
