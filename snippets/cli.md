@@ -10,7 +10,7 @@ description: Notes specific to the terminal.
 
 Finding top-level largest directories:
 
-```text
+```bash
 du -h / --max-depth=1 | sort -hr
 ```
 
@@ -20,7 +20,7 @@ du -h / --max-depth=1 | sort -hr
 
 Set up environments \(example for node\):
 
-```text
+```bash
 $ conda create -yn myapp nodejs
 $ conda activate myapp
 $ node --version
