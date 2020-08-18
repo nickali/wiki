@@ -18,5 +18,7 @@ Honestly, I like to learn about human behavior. Marketing is a good way of doing
 
 I am currently a principal at [Denmark \[the agency\]](http://denmarktheagency.com).
 
+And I almost never blog at [nali.org](https://nali.org).
+
 
 
