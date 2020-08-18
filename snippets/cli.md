@@ -1,3 +1,7 @@
+---
+description: Notes specific to the terminal.
+---
+
 # CLI
 
 ### Utilities
