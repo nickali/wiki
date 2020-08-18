@@ -1,22 +1,11 @@
 # Table of contents
 
 * [Wiki Wiki](README.md)
-
-## Fixes
-
-## Favorites
-
-* [Desktop/Laptop Apps](favorites/desktop-laptop-apps.md)
-
-## Snippets
-
-* [CLI](snippets/cli.md)
-
----
-
-* [Docker](docker.md)
-
-## Fixes <a id="fixes-1"></a>
-
-* [Utilities](fixes-1/utilities.md)
+* [Favorites](favorites/README.md)
+  * [Desktop/Laptop Apps](favorites/desktop-laptop-apps.md)
+* [Snippets](snippets/README.md)
+  * [CLI](snippets/cli.md)
+  * [Docker](snippets/docker.md)
+* [Fixes](fixes/README.md)
+  * [Utilities](fixes/utilities.md)
 
