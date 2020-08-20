@@ -21,4 +21,7 @@ Aug.20.2020 03:08  —  Let's now see if we can add a code block: ```$alias jour
 Aug.20.2020 15:50  —  Disabling iCloud and going to start storing everything in Seafile.             
 Aug.20.2020 15:53  —  Interesting conversation of multi-account containers, temporary containers, and first-party isolation in Firefox: https://www.reddit.com/r/privacytoolsIO/comments/id4k95/what_is_the_consensus_on_firefox_containers/ 
              
+Aug.20.2020 17:47  —  Rust must be first language I've seen complain about using camel case when I should be using snake case. Impressive.  
+
+Aug.20.2020 17:53  —  Serde rust framework for serialization is hot stuff: https://serde.rs/
              
