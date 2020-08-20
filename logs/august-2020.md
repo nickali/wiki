@@ -16,6 +16,7 @@ Aug.20.2020 03:01  —  Ehhh, turns out threads in Rust aren't too terrible.
 
 Aug.20.2020 03:05  —  Gitbook's markdown is not being nice. Everything is squished together. Let's see if adding an extra newline helps.
              
+Aug.20.2020 03:08  —  Let's now see if we can add a code block: ```$alias journal='vi $(echo ${(L)$(date +%B-%Y)}).md'``` This might get weird.             
              
              
              
