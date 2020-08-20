@@ -18,5 +18,7 @@ Aug.20.2020 03:05  —  Gitbook's markdown is not being nice. Everything is squi
              
 Aug.20.2020 03:08  —  Let's now see if we can add a code block: ```$alias journal='vi $(echo ${(L)$(date +%B-%Y)}).md'``` This might get weird.             
              
+Aug.20.2020 15:50  —  Disabling iCloud and going to start storing everything in Seafile.             
+Aug.20.2020 15:53  —  Interesting conversation of multi-account containers, temporary containers, and first-party isolation in Firefox: https://www.reddit.com/r/privacytoolsIO/comments/id4k95/what_is_the_consensus_on_firefox_containers/ 
              
              
