@@ -8,4 +8,6 @@
   * [Docker](snippets/docker.md)
 * [Fixes](fixes/README.md)
   * [Utilities](fixes/utilities.md)
+* [Logs](logs/README.md)
+  * [August 2020](logs/august-2020.md)
 
