@@ -24,4 +24,8 @@ Aug.20.2020 15:53  —  Interesting conversation of multi-account containers, te
 Aug.20.2020 17:47  —  Rust must be first language I've seen complain about using camel case when I should be using snake case. Impressive.  
 
 Aug.20.2020 17:53  —  Serde rust framework for serialization is hot stuff: https://serde.rs/
+
+Aug.27.2020 10:21  -  Gotta admit, while the Rust compiler is a pain in the butt, it is helpful in learning the language  
+
+
              
