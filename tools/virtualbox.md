@@ -1,3 +1,5 @@
+# Set up Headless Virtualbox VM
+             
 ### To install Virtualbox
 ```
 $ sudo apt install virtualbox
@@ -8,12 +10,12 @@ $ sudo apt install virtualbox
 $ sudo apt install virtualbox-ext-pack
 ```
 
-### To get list of OS VirtualBox supports:
+### To get list of OSs VirtualBox supports:
 ```
 $ VBoxManage list ostype
 ```
 
-### To instantiage new VM:
+### To instantiate new VM:
 ```
 $ VBoxManage createvm --name test --ostype Ubuntu_64 --registe
 ```
@@ -34,7 +36,8 @@ $ VBoxManage createhd --filename /home/nali/VMVidi/test.vdi --size 1024
 
 ### To create SATA controller:
 ```
-V$ BoxManage storagectl test --name "SATA Controller" --add sata --bootable on
+$ VBoxManage storagectl test --name "SATA Controller" --add sata --bootable on \
+   --port 0 --device 0 --type hdd --medium /home/nali/VMVidi/test.vdi
 ```
 
 ### To attach SATA controller:
