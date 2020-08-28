@@ -36,5 +36,3 @@ $ git commit --amend --reset-author
 $ git push
 ```
 
-
-

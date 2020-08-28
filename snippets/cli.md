@@ -29,7 +29,7 @@ $ npm --version
 5.6.0
 ```
 
-## Keyboard Shortcuts 
+## Keyboard Shortcuts
 
 ### Mac
 

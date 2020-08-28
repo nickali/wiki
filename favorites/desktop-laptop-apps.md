@@ -4,11 +4,11 @@ description: A mix of open source and proprietary apps that I use on a daily bas
 
 # Desktop/Laptop Apps
 
-I'm all in on Apple. I've bought iPhones, iPads, Watch, Apple TVs, Macbooks, iMacs, Mac Pros, Airport, Pencil, Magic Mice, and wireless keyboards. The only major Apple device I've never puchased is the Homepod. 
+I'm all in on Apple. I've bought iPhones, iPads, Watch, Apple TVs, Macbooks, iMacs, Mac Pros, Airport, Pencil, Magic Mice, and wireless keyboards. The only major Apple device I've never puchased is the Homepod.
 
-I love Mac OS X even with all its warts. Microsoft interfaces make me 🤮a bit. 
+I love Mac OS X even with all its warts. Microsoft interfaces make me 🤮a bit.
 
-[I love me some yummy open source software](https://fridge.ubuntu.com/2008/11/20/ubuntu-hall-of-fame/). If an OSS piece of software is close to proprietary software, I'll use the OSS app instead. 
+[I love me some yummy open source software](https://fridge.ubuntu.com/2008/11/20/ubuntu-hall-of-fame/). If an OSS piece of software is close to proprietary software, I'll use the OSS app instead.
 
 Alright, let's do this.
 
@@ -27,7 +27,6 @@ Alright, let's do this.
     * Invidious - imagine nitter for YouTube.
     * Bibliogram - imagine Invidious for Instagram.
 * 
-
 ## Folders and Documents
 
 * Cryptomator - encrypts files and folders and can mount folders so users can transparently encrypt everything dropped into the folder.
@@ -39,8 +38,6 @@ Alright, let's do this.
 * Hyper - an alternative to Terminal. Has themes and plugins \(and git integration\):
 
 ![](https://s3.us-east-2.wasabisys.com/assets.nali.org/images/mainsite/_2020/terminal-zsh-hyper.png)
-
-
 
 SaaS
 

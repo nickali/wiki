@@ -10,4 +10,5 @@
   * [Utilities](fixes/utilities.md)
 * [Logs](logs/README.md)
   * [August 2020](logs/august-2020.md)
+* [Tools](tools.md)
 

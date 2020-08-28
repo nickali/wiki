@@ -9,5 +9,3 @@ $ docker tag new_image_name:tag_name <REGISTRY_URL>/nali/docker/ \
 $ docker push <REGISTRY_URL>/nali/docker/new_image_name:tag_name
 ```
 
-
-
