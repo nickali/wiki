@@ -27,3 +27,8 @@ Aug.20.2020 17:53 — Serde rust framework for serialization is hot stuff: [http
 
 Aug.27.2020 10:21 - Gotta admit, while the Rust compiler is a pain in the butt, it is helpful in learning the language
 
+Aug.28.2020 11:38  —  Trying to set up tmux for the millionth time. It has way too many options to keep track of.
+             
+Aug.28.2020 12:42  —  And oh yeah, [alacritty](https://github.com/alacritty/alacritty) rocks!
+             
+             
