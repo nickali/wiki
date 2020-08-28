@@ -81,12 +81,20 @@ $ VBoxManage modifyvm test --vrdeaddress 127.0.0.1
 ## To start vm:
 
 ```text
-$VBoxManage startvm test --type headles
+$VBoxManage startvm test --type headless
 ```
 
-## To power off:
+## To soft power off:
+
+```text
+$ VBoxManage controlvm test acpipowerbutton
+```
+
+## To hard power off:
 
 ```text
 $ VBoxManage controlvm test poweroff soft
 ```
+
+
 
