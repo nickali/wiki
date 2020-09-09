@@ -40,7 +40,9 @@ From the [Apple Support page](https://support.apple.com/guide/terminal/keyboard-
 | Move the insertion point to the beginning of the line | Control-A |
 | Move the insertion point to the end of the line | Control-E |
 | Move the insertion point forward one word | Option-Right Arrow |
+| Move the insertion point forward one word | Option-w |
 | Move the insertion point backward one word | Option-Left Arrow |
+| Move the insertion point backward one word | Option-b |
 | Delete to the beginning of the line | Control-U |
 | Delete to the end of the line | Control-K |
 | Copy plain text | Option-Shift-Command-C |
@@ -48,4 +50,40 @@ From the [Apple Support page](https://support.apple.com/guide/terminal/keyboard-
 | Paste the selection | Shift-Command-V |
 | Paste escaped text | Control-Command-V |
 | Paste escaped selection | Control-Shift-Command-V |
+
+[And more](https://github.com/you-dont-need/You-Dont-Need-GUI/blob/master/readme.md):
+
+Peek in a zip file:
+```shell
+$ unzip -l archive_name.zip
+```
+
+Display calendar:
+```shell
+$ cal
+```
+
+
+Display specific month and year calendar
+```shell
+$ cal 11 2018
+```
+
+Display future date
+```shell
+date -d "+7 days"
+```
+
+Calculator:
+```shell
+$ bc
+```
+
+Random
+```
+$ !! # run last command
+$ sudo !! # run last command as root
+$ !<word> # run last command starting with <word>
+$ !<word>:P # show last command starting with <word> but don't run
+```
 
