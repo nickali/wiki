@@ -15,6 +15,8 @@ For starters, let's do one text file per month and see how that goes. Would be n
 For the sake of simplicity, if something needs to be tagged, it either should be either \#work or \#personal. 
 
 [August 2020](august-2020.md)
+[September 2020](september-2020.md)
+
 
 
 
