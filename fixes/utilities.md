@@ -66,7 +66,7 @@ Then run ```sudo fail2ban-client status sshd```
 The output should look like:
 
 ```shell
-tatus for the jail: sshd
+status for the jail: sshd
 |- Filter
 |  |- Currently failed:	0
 |  |- Total failed:	0
