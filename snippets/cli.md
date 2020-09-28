@@ -14,10 +14,13 @@ Finding top-level largest directories:
 du -h / --max-depth=1 | sort -hr
 ```
 
+An alternative is [godu](https://github.com/viktomas/godu).
+
 ### Processes
 
-Find all parent processes of a process (think Linux only):
-```
+Find all parent processes of a process \(think Linux only\):
+
+```text
 pstree -sA {PID}
 ```
 
@@ -61,37 +64,44 @@ From the [Apple Support page](https://support.apple.com/guide/terminal/keyboard-
 [And more](https://github.com/you-dont-need/You-Dont-Need-GUI/blob/master/readme.md):
 
 Peek in a zip file:
-```shell
+
+```text
 $ unzip -l archive_name.zip
 ```
 
 Display calendar:
-```shell
+
+```text
 $ cal
 ```
 
-
 Display specific month and year calendar
-```shell
+
+```text
 $ cal 11 2018
 ```
 
 Display future date
-```shell
+
+```text
 date -d "+7 days"
 ```
 
 Calculator:
-```shell
+
+```text
 $ bc
 ```
+
 Current DNS servers being used:
-```
+
+```text
 scutil --dns | grep 'nameserver\[[0-9]*\]'
 ```
 
 Random
-```
+
+```text
 $ !! # run last command
 $ sudo !! # run last command as root
 $ !<word> # run last command starting with <word>
