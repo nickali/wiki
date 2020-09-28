@@ -78,6 +78,10 @@ Calculator:
 ```shell
 $ bc
 ```
+Current DNS servers being used:
+```
+scutil --dns | grep 'nameserver\[[0-9]*\]'
+```
 
 Random
 ```
