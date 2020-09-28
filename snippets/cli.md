@@ -14,6 +14,13 @@ Finding top-level largest directories:
 du -h / --max-depth=1 | sort -hr
 ```
 
+### Processes
+
+Find all parent processes of a process (think Linux only):
+```
+pstree -sA {PID}
+```
+
 ## Environments
 
 ### Conda
