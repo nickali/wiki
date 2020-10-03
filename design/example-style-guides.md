@@ -1,4 +1,6 @@
 # Example Style Guides
 
-[Mailchimp Content Style Guide](https://styleguide.mailchimp.com/)
+{% embed url="https://styleguide.mailchimp.com/" %}
+
+
 

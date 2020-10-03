@@ -12,9 +12,10 @@
   * [August 2020](logs/august-2020.md)
 * [Tools](tools/README.md)
   * [Editors](tools/editors.md)
-  * [zsh](tools/zsh.md)
+  * [Tiddlywiki](tools/tiddlywiki.md)
   * [Tmux](tools/tmux.md)
   * [Virtualbox](tools/virtualbox.md)
+  * [zsh](tools/zsh.md)
 
 ## Programming
 
