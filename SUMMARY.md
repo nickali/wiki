@@ -25,5 +25,6 @@
 ## Design
 
 * [UX](design/ux.md)
+* [Design Tools](design/design-tools.md)
 * [Example Style Guides](design/example-style-guides.md)
 
