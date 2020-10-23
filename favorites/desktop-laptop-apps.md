@@ -22,11 +22,11 @@ Alright, let's do this.
 
 * Firefox - add some plugins and it becomes super secure. It's a bit of a resource hog on Apple products, but the sacrifice is worth it.
   * Plugins:
-    * uMatrix - shows you which ads and trackers it blocked, and provides you to unblock resources or block even more files.
+    * uMatrix - shows you which ads and trackers it blocked, and provides you to unblock resources or block even more files. \(no longer developed\)
     * Nitter - a different front-end of Twitter which is useful if you want to lookup specific accounts without going to Twitter directly or using an app. It's self-hosted or you can use a public instance.
     * Invidious - imagine nitter for YouTube.
     * Bibliogram - imagine Invidious for Instagram.
-* 
+
 ## Folders and Documents
 
 * Cryptomator - encrypts files and folders and can mount folders so users can transparently encrypt everything dropped into the folder.
