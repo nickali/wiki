@@ -51,8 +51,10 @@ SaaS
 
 ## Utilities
 
-* * 1440 - A menubar app that let's you know the number of minutes left in the day. Great tool to remind you not to procrastinate.
+* 1440 - A menubar app that let's you know the number of minutes left in the day. Great tool to remind you not to procrastinate.
 * AppCleaner - It identifies the cruft that needs to be deleted when deleting an app. Usually they are settings file that do no harm by hanging around, but I'd prefer them gone.
 * 1Password - Great UX and works flawlessly, but...
 * Bitwarden - I didn't want all my super secret info sitting in the cloud. Bitwarden can be self-hosted.
-* 
+
+
+
