@@ -4,6 +4,7 @@
 * [Favorites](favorites/README.md)
   * [Desktop/Laptop Apps](favorites/desktop-laptop-apps.md)
 * [Snippets](snippets/README.md)
+  * [Caddy Set up](snippets/caddy-set-up.md)
   * [CLI](snippets/cli.md)
   * [Docker](snippets/docker.md)
 * [Fixes](fixes/README.md)
