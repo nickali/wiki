@@ -2,10 +2,6 @@
 
 Quick instrutions to install Docker and Caddy when creating new virtual machine.
 
-
-
--
-
 ```text
 sudo apt-get update
 sudo apt-get upgrade -y
