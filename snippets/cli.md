@@ -108,3 +108,16 @@ $ !<word> # run last command starting with <word>
 $ !<word>:P # show last command starting with <word> but don't run
 ```
 
+## Git
+
+## Changing original URL
+
+```bash
+# check where they are pointing now
+$ git remote -v
+$ git remote set-url origin <NEW URL with .git>
+
+# Check to see if we are pointing at new URL
+$ git remote -v
+```
+
