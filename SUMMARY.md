@@ -12,6 +12,7 @@
 * [Logs](logs/README.md)
   * [August 2020](logs/august-2020.md)
 * [Tools](tools/README.md)
+  * [Homebrew](tools/homebrew.md)
   * [Weechat](tools/weechat-1.md)
   * [Kitty](tools/kitty.md)
   * [Research](tools/research.md)
